@@ -56,7 +56,7 @@ def offline_ai(command):
 
 # 🚀 Main AI loop
 def run_kai():
-    speak("Say wake up to activate")
+    speak("kai is working properly")
 
     while True:
         command = take_command()
